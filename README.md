@@ -1,9 +1,9 @@
 # ECE-4973-5973
 own study purpose. Reference
-https://cvg.cit.tum.de/research/vslam
-https://github.com/gaoxiang12/slambook2
-https://github.com/CMU-Graphics
-http://15462.courses.cs.cmu.edu/spring2023/courseinfo
+https://cvg.cit.tum.de/research/vslam. 
+https://github.com/gaoxiang12/slambook2. 
+https://github.com/CMU-Graphics. 
+http://15462.courses.cs.cmu.edu/spring2023/courseinfo. 
 
 Keynotes/Slides  ----- course.key
 
